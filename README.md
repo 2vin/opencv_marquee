@@ -12,14 +12,16 @@ output : output image path (.avi)
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Image 1</td>
+     <td>Image 2</td>
+     <td>Image 3</td>
+    <td>Image 4</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/2vin/opencv_marquee/blob/master/images/1.png" width=270 height=480></td>
-    <td><img src="https://github.com/2vin/opencv_marquee/blob/master/images/1.png" width=270 height=480></td>
-    <td><img src="https://github.com/2vin/opencv_marquee/blob/master/images/1.png" width=270 height=480></td>
+    <td><img src="https://github.com/2vin/opencv_marquee/blob/master/images/4.png" width=320 height=180></td>
+    <td><img src="https://github.com/2vin/opencv_marquee/blob/master/images/3.png" width=320 height=180></td>
+    <td><img src="https://github.com/2vin/opencv_marquee/blob/master/images/2.png" width=320 height=180></td>
+    <td><img src="https://github.com/2vin/opencv_marquee/blob/master/images/1.png" width=320 height=180></td>
   </tr>
  </table>
 
