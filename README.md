@@ -26,7 +26,13 @@ output : output image path (.avi)
  </table>
 
 
-![Image](https://github.com/2vin/opencv_marquee/blob/master/images/1.png) ![Image](https://github.com/2vin/opencv_marquee/blob/master/images/2.png) ![Image](https://github.com/2vin/opencv_marquee/blob/master/images/3.png) ![Image](https://github.com/2vin/opencv_marquee/blob/master/images/4.png)
 
 ## Output 
-![Image](https://github.com/2vin/opencv_marquee/blob/master/result.gif) 
+<table>
+  <tr>
+    <td>Result</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/2vin/opencv_marquee/blob/master/result.gif" width=320 height=180></td>
+  </tr>
+ </table>
